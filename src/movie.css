@@ -1,0 +1,24 @@
+.sage{
+    
+    background-image: url("./425789c9ee094f4.jpg");
+    
+    height: 1000vh; 
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background: linear-gradient(
+                     rgba(20,20,20, .8), 
+                     rgba(20,20,20, .8)),
+                     url( "./425789c9ee094f4.jpg") left top / cover no-repeat;
+}
+.card{
+    background-color: rgba(20, 20, 20, .8);
+    color: white;
+    border-color:  white
+    
+}
+.jac{
+    color: white
+}
